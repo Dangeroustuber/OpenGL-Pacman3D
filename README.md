@@ -59,9 +59,3 @@ Ghost AI works in in the way that every time a ghost is in a position where it m
 
 **Flashlight**
 You can toggle the flashlight with 'F'
-
-**Shadows and 2D-projection**  
-You can look in the run_test (source/shadow-map and game, updategamedirectionalshadows() ) branch if you are interested in some of this code. We implemented shadows on walls and ghosts and 2d projection but could not implement for pellets so we dropped both of these as it was taking too much time.
-
-![image](GhostShadow.png)
-
